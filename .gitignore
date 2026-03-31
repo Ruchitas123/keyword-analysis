@@ -8,3 +8,5 @@ __pycache__/
 venv/
 frontend/dist/
 .claude/
+# Local clone of user Pages repo (do not nest inside keyword-analysis commits)
+Ruchitas123.github.io/
